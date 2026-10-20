@@ -1,0 +1,30 @@
+{
+  "source": "leetcode-graphql",
+  "sourceUsername": "Ayushkathoke",
+  "sourceUrl": "https://leetcode.com/u/Ayushkathoke/",
+  "fetchedAt": "2026-10-20T18:08:15.496951+00:00",
+  "sourceDate": "2026-10-20",
+  "calendarYear": 2026,
+  "fetchStatus": "ok",
+  "solved": 824,
+  "easy": 206,
+  "medium": 449,
+  "hard": 169,
+  "rank": 63855,
+  "activeDays": 292,
+  "maxStreak": 188,
+  "badges": 36,
+  "topics": {
+    "Array": 528,
+    "String": 198,
+    "Hash Table": 184,
+    "Math": 167,
+    "Dynamic Programming": 139,
+    "Sorting": 129
+  },
+  "availableByDifficulty": {
+    "Easy": 972,
+    "Medium": 2131,
+    "Hard": 984
+  }
+}
